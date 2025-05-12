@@ -1,0 +1,5 @@
+gymnasium[atari,accept-rom-license]==0.29.1
+numpy==1.24.3
+opencv-python==4.8.0.76
+ale-py==0.8.1
+autorom[accept-rom-license]
